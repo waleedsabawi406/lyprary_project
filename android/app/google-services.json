@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092225815272",
+    "project_id": "lyprary-ecommer",
+    "storage_bucket": "lyprary-ecommer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092225815272:android:057aff585283ecb15a6f5d",
+        "android_client_info": {
+          "package_name": "com.example.library_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092225815272-ls78t8cc4444e29qv0ai9tg3evt6cbke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByECCKvm3nNbb0WeOF9xvRLNuWFmU-Jk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092225815272-ls78t8cc4444e29qv0ai9tg3evt6cbke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
